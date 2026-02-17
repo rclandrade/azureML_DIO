@@ -10,7 +10,7 @@ The data used for this activity what acquired using the DAQ hardware that I have
 
  - DAQ Prototype:
 
-![DAQ](./DAQ_Prototype.jpeg)
+![DAQ](./DAQ%20Prototype.jpeg)
  
  - Dataset link:
 
